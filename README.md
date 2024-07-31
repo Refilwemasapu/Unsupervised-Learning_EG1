@@ -6,19 +6,19 @@
 # Personalized Anime Recommendations for 2024
 
 ## Table of Contents
- [Project Overview](#project-overview)
+1. [Project Overview](#project-overview)
      - [Introduction](#introduction)
      - [Aim](#aim)
      - [Objectives](#objectives)
- [Importing Packages](#importing-packages)
- [Loading Data](#loading-data)
- [Data Cleaning](#data-cleaning)
- [Data Preprocessing](#data-preprocessing)
- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
- [Model Training and Evaluation](#model-training-and-evaluation)
- [Model Parameters and Hyperparameters Tuning](#model-parameters-and-hyperparameters-tuning)
- [Streamlit Application](#streamlit-application)
- [Conclusion](#conclusion)
+2. [Importing Packages](#importing-packages)
+3. [Loading Data](#loading-data)
+4. [Data Cleaning](#data-cleaning)
+5. [Data Preprocessing](#data-preprocessing)
+6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+7. [Model Training and Evaluation](#model-training-and-evaluation)
+8. [Model Parameters and Hyperparameters Tuning](#model-parameters-and-hyperparameters-tuning)
+9. [Streamlit Application](#streamlit-application)
+10 [Conclusion](#conclusion)
 
 ## 1. Project Overview
 ### Introduction
