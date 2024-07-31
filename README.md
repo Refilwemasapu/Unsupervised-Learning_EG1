@@ -7,9 +7,9 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-     - [Introduction](#introduction)
-     - [Aim](#aim)
-     - [Objectives](#objectives)
+    - [Introduction](#introduction)
+    - [Aim](#aim)
+    - [Objectives](#objectives)
 2. [Importing Packages](#importing-packages)
 3. [Loading Data](#loading-data)
 4. [Data Cleaning](#data-cleaning)
@@ -18,9 +18,9 @@
 7. [Model Training and Evaluation](#model-training-and-evaluation)
 8. [Model Parameters and Hyperparameters Tuning](#model-parameters-and-hyperparameters-tuning)
 9. [Streamlit Application](#streamlit-application)
-10 [Conclusion](#conclusion)
+10. [Conclusion](#conclusion)
 
-## 1. Project Overview
+  
 ### Introduction
 This project aims to create a personalized anime recommendation system for 2024. By leveraging machine learning techniques, the system predicts anime ratings based on user preferences to enhance content categorization and user experience.
 
