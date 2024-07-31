@@ -3,19 +3,22 @@
 ## Personalized Anime Recommendations for 2024
 ![image](https://github.com/user-attachments/assets/8dde5b83-1239-4362-b656-d86f38b6297b)
 
-# Table of content 
-1. [Project Overview](#project-overview)
-    - [Introduction](#introduction)
-    - [Aim](#aim)
-    - [Objectives](#objectives)
-2. [Importing Packages](#importing-packages)
-3. [Loading Data](#loading-data)
-4. [Data Cleaning](#data-cleaning)
-5. [Data Preprocessing](#data-preprocessing)
-6. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-7. [Model Training and Evaluation](#model-training-and-evaluation)
-8. [Model Parameters and Hyperparameters Tuning](#model-parameters-and-hyperparameters-tuning)
-9. [Conclusion](#conclusion)
+# Personalized Anime Recommendations for 2024
+
+## Table of Contents
+ [Project Overview](#project-overview)
+     - [Introduction](#introduction)
+     - [Aim](#aim)
+     - [Objectives](#objectives)
+ [Importing Packages](#importing-packages)
+ [Loading Data](#loading-data)
+ [Data Cleaning](#data-cleaning)
+ [Data Preprocessing](#data-preprocessing)
+ [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+ [Model Training and Evaluation](#model-training-and-evaluation)
+ [Model Parameters and Hyperparameters Tuning](#model-parameters-and-hyperparameters-tuning)
+ [Streamlit Application](#streamlit-application)
+ [Conclusion](#conclusion)
 
 ## 1. Project Overview
 ### Introduction
@@ -55,10 +58,13 @@ This step involves creating a mathematical or computational model that categoriz
 ## 8. Model Parameters and Hyperparameters Tuning
 Fine-tuning model parameters and hyperparameters optimizes the model's performance by improving accuracy, preventing overfitting and underfitting, enhancing efficiency, adapting to specific data characteristics, and improving interpretability and usability.
 
-## 9. Conclusion
+## 9. Streamlit Application
+To provide an interactive user interface for the personalized anime recommendation system, we use Streamlit. Streamlit allows us to create web applications for machine learning and data science projects easily.
+
+## 10. Conclusion
 The conclusion ties together the findings and insights gained from the data. It reflects on the effectiveness of the preprocessing and cleaning steps, discusses the accuracy and reliability of the models used, and provides recommendations based on the results. A strong conclusion suggests future research directions or improvements, emphasizing the overall impact and value of the analysis.
 
-## 10.Team Members<a class="anchor" id="team-members"></a>
+## 11.Team Members<a class="anchor" id="team-members"></a>
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
 | [Refilwe Masapu](https://github.com/Refilwemasapu)                                          | skymasapu12@gmail.com
