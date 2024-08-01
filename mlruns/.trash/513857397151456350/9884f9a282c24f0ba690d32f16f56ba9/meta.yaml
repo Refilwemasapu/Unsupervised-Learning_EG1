@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/9884f9a282c24f0ba690d32f16f56ba9/artifacts
+deleted_time: 1722449213885
+end_time: 1722449035681
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 9884f9a282c24f0ba690d32f16f56ba9
+run_name: charming-slug-403
+run_uuid: 9884f9a282c24f0ba690d32f16f56ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449035577
+status: 3
+tags: []
+user_id: User

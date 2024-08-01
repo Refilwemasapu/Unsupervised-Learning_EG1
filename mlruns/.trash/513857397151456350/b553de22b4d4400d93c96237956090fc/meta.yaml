@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/b553de22b4d4400d93c96237956090fc/artifacts
+deleted_time: 1722449213885
+end_time: 1722449033486
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: b553de22b4d4400d93c96237956090fc
+run_name: gentle-squid-172
+run_uuid: b553de22b4d4400d93c96237956090fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449033394
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/b9b246ae47c54e3f99a31a3668df8b53/artifacts
+deleted_time: 1722449213885
+end_time: 1722449032210
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: b9b246ae47c54e3f99a31a3668df8b53
+run_name: tasteful-elk-67
+run_uuid: b9b246ae47c54e3f99a31a3668df8b53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449032122
+status: 3
+tags: []
+user_id: User

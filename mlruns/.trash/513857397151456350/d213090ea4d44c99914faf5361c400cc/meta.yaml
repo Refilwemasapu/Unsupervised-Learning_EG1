@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/d213090ea4d44c99914faf5361c400cc/artifacts
+deleted_time: 1722449213885
+end_time: 1722449032451
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: d213090ea4d44c99914faf5361c400cc
+run_name: monumental-shoat-789
+run_uuid: d213090ea4d44c99914faf5361c400cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449032364
+status: 3
+tags: []
+user_id: User

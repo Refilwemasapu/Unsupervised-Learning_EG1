@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/c2e2d24b0f83421aa5bd5a0d3903999a/artifacts
+deleted_time: 1722449213885
+end_time: 1722449039311
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: c2e2d24b0f83421aa5bd5a0d3903999a
+run_name: wise-toad-127
+run_uuid: c2e2d24b0f83421aa5bd5a0d3903999a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449039218
+status: 3
+tags: []
+user_id: User

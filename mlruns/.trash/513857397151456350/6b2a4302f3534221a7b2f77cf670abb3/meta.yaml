@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/6b2a4302f3534221a7b2f77cf670abb3/artifacts
+deleted_time: 1722449213885
+end_time: 1722449039092
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 6b2a4302f3534221a7b2f77cf670abb3
+run_name: crawling-dog-619
+run_uuid: 6b2a4302f3534221a7b2f77cf670abb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449038999
+status: 3
+tags: []
+user_id: User

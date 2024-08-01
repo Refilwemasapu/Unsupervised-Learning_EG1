@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/e6e6c4df85cd426e9b17303de8fa33d8/artifacts
+deleted_time: 1722449213885
+end_time: 1722449038660
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: e6e6c4df85cd426e9b17303de8fa33d8
+run_name: receptive-roo-133
+run_uuid: e6e6c4df85cd426e9b17303de8fa33d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449038573
+status: 3
+tags: []
+user_id: User

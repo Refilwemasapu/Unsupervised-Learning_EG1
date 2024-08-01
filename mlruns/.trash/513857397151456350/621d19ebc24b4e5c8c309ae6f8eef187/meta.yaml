@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/621d19ebc24b4e5c8c309ae6f8eef187/artifacts
+deleted_time: 1722449213885
+end_time: 1722449034562
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 621d19ebc24b4e5c8c309ae6f8eef187
+run_name: smiling-ram-53
+run_uuid: 621d19ebc24b4e5c8c309ae6f8eef187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449034464
+status: 3
+tags: []
+user_id: User

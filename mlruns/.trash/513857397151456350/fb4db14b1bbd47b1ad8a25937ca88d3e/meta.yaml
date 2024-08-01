@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/fb4db14b1bbd47b1ad8a25937ca88d3e/artifacts
+deleted_time: 1722449213885
+end_time: 1722449040789
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: fb4db14b1bbd47b1ad8a25937ca88d3e
+run_name: upset-jay-651
+run_uuid: fb4db14b1bbd47b1ad8a25937ca88d3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449040700
+status: 3
+tags: []
+user_id: User

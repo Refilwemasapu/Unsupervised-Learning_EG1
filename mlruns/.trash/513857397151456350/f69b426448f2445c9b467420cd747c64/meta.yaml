@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/f69b426448f2445c9b467420cd747c64/artifacts
+deleted_time: 1722449213885
+end_time: 1722449039540
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: f69b426448f2445c9b467420cd747c64
+run_name: sneaky-moose-835
+run_uuid: f69b426448f2445c9b467420cd747c64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449039452
+status: 3
+tags: []
+user_id: User

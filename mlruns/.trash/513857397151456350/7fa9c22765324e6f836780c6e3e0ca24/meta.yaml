@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/7fa9c22765324e6f836780c6e3e0ca24/artifacts
+deleted_time: 1722449213885
+end_time: 1722449037262
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 7fa9c22765324e6f836780c6e3e0ca24
+run_name: marvelous-deer-193
+run_uuid: 7fa9c22765324e6f836780c6e3e0ca24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449037154
+status: 3
+tags: []
+user_id: User

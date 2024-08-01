@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/86e6dcae84574225a47ca37c83c4a78b/artifacts
+deleted_time: 1722449213885
+end_time: 1722449034446
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 86e6dcae84574225a47ca37c83c4a78b
+run_name: sincere-cod-422
+run_uuid: 86e6dcae84574225a47ca37c83c4a78b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449034352
+status: 3
+tags: []
+user_id: User

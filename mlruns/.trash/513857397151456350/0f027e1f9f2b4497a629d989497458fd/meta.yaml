@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/0f027e1f9f2b4497a629d989497458fd/artifacts
+deleted_time: 1722449213885
+end_time: 1722449038076
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 0f027e1f9f2b4497a629d989497458fd
+run_name: mysterious-vole-85
+run_uuid: 0f027e1f9f2b4497a629d989497458fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449037991
+status: 3
+tags: []
+user_id: User

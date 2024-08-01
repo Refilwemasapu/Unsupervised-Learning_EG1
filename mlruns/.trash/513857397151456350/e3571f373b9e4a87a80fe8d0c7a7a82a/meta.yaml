@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/e3571f373b9e4a87a80fe8d0c7a7a82a/artifacts
+deleted_time: 1722449213885
+end_time: 1722449032854
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: e3571f373b9e4a87a80fe8d0c7a7a82a
+run_name: ambitious-whale-57
+run_uuid: e3571f373b9e4a87a80fe8d0c7a7a82a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449032764
+status: 3
+tags: []
+user_id: User

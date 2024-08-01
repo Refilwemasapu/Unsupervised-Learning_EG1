@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/cafa377b94d34cd78ccfff8e34837fa2/artifacts
+deleted_time: 1722449213885
+end_time: 1722449039201
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: cafa377b94d34cd78ccfff8e34837fa2
+run_name: calm-loon-696
+run_uuid: cafa377b94d34cd78ccfff8e34837fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449039112
+status: 3
+tags: []
+user_id: User

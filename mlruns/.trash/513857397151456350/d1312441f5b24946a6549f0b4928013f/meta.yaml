@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/d1312441f5b24946a6549f0b4928013f/artifacts
+deleted_time: 1722449213885
+end_time: 1722449041665
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: d1312441f5b24946a6549f0b4928013f
+run_name: worried-loon-922
+run_uuid: d1312441f5b24946a6549f0b4928013f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449041573
+status: 3
+tags: []
+user_id: User

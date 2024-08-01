@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/02b604804434492fa92cad004bd0adef/artifacts
+deleted_time: 1722449213885
+end_time: 1722449038762
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 02b604804434492fa92cad004bd0adef
+run_name: clumsy-moth-716
+run_uuid: 02b604804434492fa92cad004bd0adef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449038676
+status: 3
+tags: []
+user_id: User
