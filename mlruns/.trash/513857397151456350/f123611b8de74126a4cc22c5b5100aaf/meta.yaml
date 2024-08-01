@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/f123611b8de74126a4cc22c5b5100aaf/artifacts
+deleted_time: 1722449213885
+end_time: 1722449041278
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: f123611b8de74126a4cc22c5b5100aaf
+run_name: silent-ox-329
+run_uuid: f123611b8de74126a4cc22c5b5100aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449041180
+status: 3
+tags: []
+user_id: User

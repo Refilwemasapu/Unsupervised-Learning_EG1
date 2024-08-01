@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/513857397151456350
+creation_time: 1722448542570
+experiment_id: '513857397151456350'
+last_update_time: 1722449213885
+lifecycle_stage: deleted
+name: Collaborative SVD fine-tuning
+tags: {}

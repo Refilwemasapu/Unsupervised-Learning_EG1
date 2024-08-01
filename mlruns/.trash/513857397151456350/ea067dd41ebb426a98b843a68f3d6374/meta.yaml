@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/ea067dd41ebb426a98b843a68f3d6374/artifacts
+deleted_time: 1722449213885
+end_time: 1722449037511
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: ea067dd41ebb426a98b843a68f3d6374
+run_name: agreeable-crab-75
+run_uuid: ea067dd41ebb426a98b843a68f3d6374
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449037405
+status: 3
+tags: []
+user_id: User

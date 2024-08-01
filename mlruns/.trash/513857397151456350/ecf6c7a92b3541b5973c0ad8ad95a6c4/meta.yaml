@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/ecf6c7a92b3541b5973c0ad8ad95a6c4/artifacts
+deleted_time: 1722449213885
+end_time: 1722449038868
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: ecf6c7a92b3541b5973c0ad8ad95a6c4
+run_name: thundering-crane-779
+run_uuid: ecf6c7a92b3541b5973c0ad8ad95a6c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449038778
+status: 3
+tags: []
+user_id: User

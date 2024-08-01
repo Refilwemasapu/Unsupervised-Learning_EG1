@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/bca8d51681f1424d8139307966929743/artifacts
+deleted_time: 1722449213885
+end_time: 1722449039988
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: bca8d51681f1424d8139307966929743
+run_name: redolent-quail-621
+run_uuid: bca8d51681f1424d8139307966929743
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449039896
+status: 3
+tags: []
+user_id: User

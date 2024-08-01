@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/adad2fdae7e4466eafae876f6cafdd2d/artifacts
+deleted_time: 1722449213885
+end_time: 1722449033846
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: adad2fdae7e4466eafae876f6cafdd2d
+run_name: suave-fox-887
+run_uuid: adad2fdae7e4466eafae876f6cafdd2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449033736
+status: 3
+tags: []
+user_id: User

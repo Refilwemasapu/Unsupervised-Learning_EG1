@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/a8ac138369854d34a010c5a475a87ab9/artifacts
+deleted_time: 1722449213885
+end_time: 1722449037132
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: a8ac138369854d34a010c5a475a87ab9
+run_name: omniscient-hound-8
+run_uuid: a8ac138369854d34a010c5a475a87ab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449037049
+status: 3
+tags: []
+user_id: User

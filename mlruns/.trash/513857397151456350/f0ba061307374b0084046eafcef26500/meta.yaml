@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/f0ba061307374b0084046eafcef26500/artifacts
+deleted_time: 1722449213885
+end_time: 1722449041044
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: f0ba061307374b0084046eafcef26500
+run_name: tasteful-snake-169
+run_uuid: f0ba061307374b0084046eafcef26500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449040943
+status: 3
+tags: []
+user_id: User

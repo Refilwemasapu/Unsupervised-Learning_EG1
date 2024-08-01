@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/717c378edb0940c997777967d225e1eb/artifacts
+deleted_time: 1722449213885
+end_time: 1722449032105
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 717c378edb0940c997777967d225e1eb
+run_name: victorious-trout-88
+run_uuid: 717c378edb0940c997777967d225e1eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449032019
+status: 3
+tags: []
+user_id: User

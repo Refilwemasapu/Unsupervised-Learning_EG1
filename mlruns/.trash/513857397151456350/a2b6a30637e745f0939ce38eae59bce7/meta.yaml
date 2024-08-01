@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/a2b6a30637e745f0939ce38eae59bce7/artifacts
+deleted_time: 1722449213885
+end_time: 1722449035013
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: a2b6a30637e745f0939ce38eae59bce7
+run_name: judicious-wren-108
+run_uuid: a2b6a30637e745f0939ce38eae59bce7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449034917
+status: 3
+tags: []
+user_id: User

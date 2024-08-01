@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/8157f63b30914c8cbc9ef5b65ac51b35/artifacts
+deleted_time: 1722449213885
+end_time: 1722449033369
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 8157f63b30914c8cbc9ef5b65ac51b35
+run_name: honorable-quail-536
+run_uuid: 8157f63b30914c8cbc9ef5b65ac51b35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449033266
+status: 3
+tags: []
+user_id: User

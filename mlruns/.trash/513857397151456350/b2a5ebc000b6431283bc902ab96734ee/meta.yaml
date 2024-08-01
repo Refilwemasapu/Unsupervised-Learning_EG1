@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/b2a5ebc000b6431283bc902ab96734ee/artifacts
+deleted_time: 1722449213885
+end_time: 1722449034107
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: b2a5ebc000b6431283bc902ab96734ee
+run_name: sneaky-skink-297
+run_uuid: b2a5ebc000b6431283bc902ab96734ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449034013
+status: 3
+tags: []
+user_id: User

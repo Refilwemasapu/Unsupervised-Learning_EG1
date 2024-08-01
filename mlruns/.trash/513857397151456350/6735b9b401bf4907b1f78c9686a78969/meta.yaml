@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/6735b9b401bf4907b1f78c9686a78969/artifacts
+deleted_time: 1722449213885
+end_time: 1722449040254
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 6735b9b401bf4907b1f78c9686a78969
+run_name: exultant-shark-771
+run_uuid: 6735b9b401bf4907b1f78c9686a78969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449040136
+status: 3
+tags: []
+user_id: User

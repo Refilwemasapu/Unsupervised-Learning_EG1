@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/e19addec24da41cdbb7364cd9cf949ca/artifacts
+deleted_time: 1722449213885
+end_time: 1722449035241
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: e19addec24da41cdbb7364cd9cf949ca
+run_name: dashing-kit-976
+run_uuid: e19addec24da41cdbb7364cd9cf949ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449035139
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/b0c0a9d6f0144b5eb940d7efe2e6dacc/artifacts
+deleted_time: 1722449213885
+end_time: 1722449033993
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: b0c0a9d6f0144b5eb940d7efe2e6dacc
+run_name: bittersweet-skink-53
+run_uuid: b0c0a9d6f0144b5eb940d7efe2e6dacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449033873
+status: 3
+tags: []
+user_id: User

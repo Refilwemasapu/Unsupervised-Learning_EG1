@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/6cadca116e27454f98953d6f65e53b58/artifacts
+deleted_time: 1722449213885
+end_time: 1722449035796
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 6cadca116e27454f98953d6f65e53b58
+run_name: auspicious-foal-976
+run_uuid: 6cadca116e27454f98953d6f65e53b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449035700
+status: 3
+tags: []
+user_id: User

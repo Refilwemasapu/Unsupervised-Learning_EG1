@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/eb43a55b97d54cb8845ff9d70b5d2cfa/artifacts
+deleted_time: 1722449213885
+end_time: 1722449037972
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: eb43a55b97d54cb8845ff9d70b5d2cfa
+run_name: bold-stoat-313
+run_uuid: eb43a55b97d54cb8845ff9d70b5d2cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449037874
+status: 3
+tags: []
+user_id: User

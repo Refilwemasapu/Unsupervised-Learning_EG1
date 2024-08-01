@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/24d499c51e6b4235822e71a45ce612e4/artifacts
+deleted_time: 1722449213885
+end_time: 1722449035117
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 24d499c51e6b4235822e71a45ce612e4
+run_name: youthful-cod-88
+run_uuid: 24d499c51e6b4235822e71a45ce612e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449035030
+status: 3
+tags: []
+user_id: User

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/efafa555a4db441aab144562d9e9c33a/artifacts
+deleted_time: 1722449213885
+end_time: 1722449038312
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: efafa555a4db441aab144562d9e9c33a
+run_name: popular-shoat-973
+run_uuid: efafa555a4db441aab144562d9e9c33a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449038215
+status: 3
+tags: []
+user_id: User

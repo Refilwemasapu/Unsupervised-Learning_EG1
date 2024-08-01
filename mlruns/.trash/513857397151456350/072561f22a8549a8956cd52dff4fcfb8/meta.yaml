@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/072561f22a8549a8956cd52dff4fcfb8/artifacts
+deleted_time: 1722449213885
+end_time: 1722449038445
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 072561f22a8549a8956cd52dff4fcfb8
+run_name: abrasive-yak-446
+run_uuid: 072561f22a8549a8956cd52dff4fcfb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449038333
+status: 3
+tags: []
+user_id: User

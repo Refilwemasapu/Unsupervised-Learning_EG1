@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/d9b9d72ef5cb4c8d9eefe6f1f6e31490/artifacts
+deleted_time: 1722449213885
+end_time: 1722449034669
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: d9b9d72ef5cb4c8d9eefe6f1f6e31490
+run_name: able-mouse-372
+run_uuid: d9b9d72ef5cb4c8d9eefe6f1f6e31490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449034579
+status: 3
+tags: []
+user_id: User

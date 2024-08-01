@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/df3d86616b0d41c0a31708623193151e/artifacts
+deleted_time: 1722449213885
+end_time: 1722449034896
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: df3d86616b0d41c0a31708623193151e
+run_name: chill-shark-116
+run_uuid: df3d86616b0d41c0a31708623193151e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449034796
+status: 3
+tags: []
+user_id: User

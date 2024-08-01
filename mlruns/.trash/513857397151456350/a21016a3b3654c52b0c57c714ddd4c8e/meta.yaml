@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/a21016a3b3654c52b0c57c714ddd4c8e/artifacts
+deleted_time: 1722449213885
+end_time: 1722448930484
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: a21016a3b3654c52b0c57c714ddd4c8e
+run_name: nervous-ape-326
+run_uuid: a21016a3b3654c52b0c57c714ddd4c8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722448930409
+status: 4
+tags: []
+user_id: User

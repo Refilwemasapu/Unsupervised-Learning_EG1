@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/f99296487b15404d8a89e04dcca7bbbc/artifacts
+deleted_time: 1722449213885
+end_time: 1722449040919
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: f99296487b15404d8a89e04dcca7bbbc
+run_name: nimble-moose-317
+run_uuid: f99296487b15404d8a89e04dcca7bbbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449040812
+status: 3
+tags: []
+user_id: User

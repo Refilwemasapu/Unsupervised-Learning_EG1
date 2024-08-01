@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/039a7d510d4e4b509d8a3c5f4fe081e2/artifacts
+deleted_time: 1722449213885
+end_time: 1722449033589
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 039a7d510d4e4b509d8a3c5f4fe081e2
+run_name: dapper-roo-550
+run_uuid: 039a7d510d4e4b509d8a3c5f4fe081e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449033503
+status: 3
+tags: []
+user_id: User

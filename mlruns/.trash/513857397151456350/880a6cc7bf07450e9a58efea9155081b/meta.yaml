@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/880a6cc7bf07450e9a58efea9155081b/artifacts
+deleted_time: 1722449213885
+end_time: 1722449034212
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 880a6cc7bf07450e9a58efea9155081b
+run_name: treasured-skunk-201
+run_uuid: 880a6cc7bf07450e9a58efea9155081b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449034125
+status: 3
+tags: []
+user_id: User

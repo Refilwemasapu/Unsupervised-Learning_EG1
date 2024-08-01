@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/513857397151456350/008bb6f2623a48aaa7e7dc5a86e22ef5/artifacts
+deleted_time: 1722449213885
+end_time: 1722449032348
+entry_point_name: ''
+experiment_id: '513857397151456350'
+lifecycle_stage: deleted
+run_id: 008bb6f2623a48aaa7e7dc5a86e22ef5
+run_name: abrasive-crane-962
+run_uuid: 008bb6f2623a48aaa7e7dc5a86e22ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722449032227
+status: 3
+tags: []
+user_id: User
