@@ -1,13 +1,32 @@
 ## 2401FTDS_Unsupervised Learning 
 
-## Personalized Anime Recommendations for 2024
 ![image](https://github.com/user-attachments/assets/8dde5b83-1239-4362-b656-d86f38b6297b)
 
-# Personalized Anime Recommendations for 2024
+# Personalized Anime Recommendations for 2024  [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recommend-anime.streamlit.app/)
+
+The aim of this project was to create a personalized anime recommendation system for 2024. By leveraging machine learning techniques, the system predicts anime ratings based on user preferences to enhance content categorization and user experience.
+
+The recommendation system was deployed using Streamlit. [Click here](https://github.com/MeganHolborn/Streamlit-EG1) to peruse through the Streamlit App code. 
+
+# Getting Started
+
+This application was developed using Python 3.9.13 using the following libraries:
+* joblib==1.2.0
+* pandas==1.5.3
+* scikit-learn==1.2.2
+* streamlit==1.36.0
+* numpy==1.24.1
+
+To install the requirements.txt file type in the following terminal command:
+```bash
+pip install -r requirements.txt
+```
+
+# Notebook Content
+This section provides an overview of methodology sections in the project notebook:
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-    - [Introduction](#introduction)
     - [Aim](#aim)
     - [Objectives](#objectives)
 2. [Importing Packages](#importing-packages)
@@ -20,9 +39,7 @@
 9. [Streamlit Application](#streamlit-application)
 10. [Conclusion](#conclusion)
 
-  
-### Introduction
-This project aims to create a personalized anime recommendation system for 2024. By leveraging machine learning techniques, the system predicts anime ratings based on user preferences to enhance content categorization and user experience.
+## 1. Project Overview
 
 ### Aim
 The aim of this project is to reduce customer churn by providing personalized anime recommendations that accurately reflect user preferences.
@@ -64,7 +81,7 @@ To provide an interactive user interface for the personalized anime recommendati
 ## 10. Conclusion
 The conclusion ties together the findings and insights gained from the data. It reflects on the effectiveness of the preprocessing and cleaning steps, discusses the accuracy and reliability of the models used, and provides recommendations based on the results. A strong conclusion suggests future research directions or improvements, emphasizing the overall impact and value of the analysis.
 
-## 11.Team Members<a class="anchor" id="team-members"></a>
+# Team Members<a class="anchor" id="team-members"></a>
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
 | [Refilwe Masapu](https://github.com/Refilwemasapu)                                          | skymasapu12@gmail.com
