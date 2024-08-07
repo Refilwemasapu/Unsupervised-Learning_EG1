@@ -11,11 +11,13 @@ The recommendation system was deployed using Streamlit. [Click here](https://git
 # Getting Started
 
 This application was developed using Python 3.9.13 using the following libraries:
-* joblib==1.2.0
-* pandas==1.5.3
-* scikit-learn==1.2.2
-* streamlit==1.36.0
-* numpy==1.24.1
+* pandas==2.0.1
+* matplotlib==3.6.3
+* seaborn==0.13.2
+* scikit-surprise==1.1.4
+* mlflow==2.14.1
+* recommenders==1.2.0
+* wordcloud==1.9.2
 
 To install the requirements.txt file type in the following terminal command:
 ```bash
